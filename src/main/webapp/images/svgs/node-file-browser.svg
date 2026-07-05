@@ -1,0 +1,11 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- 文件夹主体路径 -->
+  <path
+    d="M213.33 426.67H85.33C61.42 426.67 42.67 407.92 42.67 384V106.67C42.67 82.75 61.42 64 85.33 64H192L234.67 106.67H384C407.92 106.67 426.67 125.42 426.67 149.33V213.33"
+    stroke="currentColor" stroke-width="32" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- 放大镜圆圈 -->
+  <circle cx="341.33" cy="341.33" r="85.33" stroke="currentColor" stroke-width="32"/>
+  <!-- 放大镜手柄 -->
+  <path d="M405.33 405.33L469.33 469.33" stroke="currentColor" stroke-width="32" stroke-linecap="round"
+        stroke-linejoin="round"/>
+</svg>

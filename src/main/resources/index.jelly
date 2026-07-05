@@ -1,0 +1,4 @@
+<?jelly escape-by-default='true'?>
+<div>
+    A web-based file browser for Jenkins nodes. Browse, view, upload, delete, copy, and move files on the connected agents directly from the Jenkins interface.
+</div>

@@ -1,0 +1,35 @@
+{
+  "editor.defaultFormatter": "oxc.oxc-vscode",
+  "[javascriptreact]": {
+      "editor.defaultFormatter": "oxc.oxc-vscode"
+  },
+  "[typescriptreact]": {
+      "editor.defaultFormatter": "oxc.oxc-vscode"
+  },
+  "editor.formatOnSave": false, // disable default behavior
+  "editor.codeActionsOnSave": {
+    "source.format.oxc": "always", // run formatter first
+    "source.fixAll.oxc": "always" // run lint fixes after
+  },
+
+  "stylelint.validate": [
+    "css",
+    "scss",
+    "sass",
+    "vue"
+  ],
+
+  // "eslint.format.enable": true,
+  "scss.lint.emptyRules": "ignore",
+  "scss.lint.idSelector": "ignore",
+  "git.ignoreLimitWarning": true,
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true,
+    "**/node_modules": true
+  }
+}
